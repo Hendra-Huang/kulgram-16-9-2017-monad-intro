@@ -21,3 +21,5 @@ Struktur kulgram adalah sebagai berikut:
 Semoga kulgram ini bermanfaat bagi kita semua. Kulgram akan diarsip dan akan dipublish melalui media web sehingga dapat dibaca kemudian hari. Link arsip akan kami sosialisasikan melalui group Kongkow IT Medan.
 
 Selamat mengikuti and happy learning!
+
+Lanjutkan ke materi [kulgram](kulgram.md)
